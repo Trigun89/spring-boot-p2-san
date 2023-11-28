@@ -1,0 +1,7 @@
+"sonarlint.connectedMode.connections.sonarqube": [{
+  "serverUrl": "http://localhost:9000/",
+  "token": "sqa_5389c414a41d0c50111c74376df9cb184dbebe8c"
+}, 
+"sonarlint.connectedMode.project": {
+  "projectKey": "santek"
+}]
